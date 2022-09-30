@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "zjs-booking-mini",
+  "description": "新华图书征订",
+  "appid": "touristappid",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}
